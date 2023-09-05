@@ -3,12 +3,17 @@
 JARVIS (Just A Rather Very Intelligent System) is an AI-powered personal assistant project aimed at providing a wide range of functionalities to enhance the user's daily life. 
 
 # Features
-Voice recognition: JARVIS can understand and respond to voice commands, allowing for a hands-free user experience.
-Natural language processing: JARVIS interprets user queries in a conversational manner.
-Music and entertainment: JARVIS can play music, create playlists, suggest movies or TV shows, and engage in casual conversation.
-Language translation: JARVIS can translate text or phrases between different languages.
-Voice synthesis: JARVIS communicates with the user using natural-sounding speech through text-to-speech technology.
-Continuous learning and improvement: JARVIS learns from user interactions to improve its responses and performance over time.
+**Voice recognition:** JARVIS can understand and respond to voice commands, allowing for a hands-free user experience.
+
+**Natural language processing:** JARVIS interprets user queries in a conversational manner.
+
+**Music and entertainment:** JARVIS can play music, create playlists, suggest movies or TV shows, and engage in casual conversation.
+
+**Language translation:** JARVIS can translate text or phrases between different languages.
+
+**Voice synthesis:** JARVIS communicates with the user using natural-sounding speech through text-to-speech technology.
+
+**Continuous learning and improvement:** JARVIS learns from user interactions to improve its responses and performance over time.
 
 # Installation
 
